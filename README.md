@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web and mobile development
 - 📫 How to reach me: <a href='https://www.instagram.com/basukiridhoal/' target="_blank">instagram | @basukiridhoal</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love 2D Charachter
+- ⚡ Fun fact: -
 
 <!---
 Ridhsuki/Ridhsuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
