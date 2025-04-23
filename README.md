@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web and mobile development
 - 📫 How to reach me: <a href='https://www.instagram.com/basukiridhoal/' target="_blank">instagram | @basukiridhoal</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: -
+- ⚡ Fun fact: An introvert
 
 <div style="text-align: center;">
   <a href="https://git.io/streak-stats">
