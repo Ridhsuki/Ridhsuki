@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Bocchi" src="https://c.tenor.com/P_Qu80HM5_MAAAAd/tenor.gif" width="100%" />
+  <img alt="Bocchi" src="https://github.com/Ridhsuki/web-learning-archive/blob/master/Img/ilya.png" width="50%" />
 </p>
 
 - 👋 Hi, I’m Basuki Ridho Al Ghifari
