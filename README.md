@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Bocchi" src="https://github.com/Ridhsuki/web-learning-archive/blob/master/Img/ilya.png" width="99%" />
+  <img alt="Bocchi" src="https://raw.githubusercontent.com/evanliomain/evanliomain/refs/heads/main/img/sfeir-banner.png" width="99%" />
 </p>
 
 - 👋 Hi, I’m Basuki Ridho Al Ghifari
