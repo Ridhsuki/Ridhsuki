@@ -1,4 +1,4 @@
-# Hi there, I'm Basuki Ridho Al Ghifari - [RIdhsuki](https://www.instagram.com/basukiridhoal/) 👋
+# Hi there, I'm Basuki Ridho Al Ghifari - [Ridhsuki](https://www.tiktok.com/@ritsuchi_dev) 👋
 ## About me:
 - 🔭 I’m currently working as Freelance Web Developer
 - 🌱 I’m currently learning Python and Flutter
@@ -49,6 +49,7 @@
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@RIDHO_AG#gh-dark-mode-only)
 
 
+
 [webdev]: https://github.com/Ridhsuki/Ridhsuki/
 
 
@@ -61,4 +62,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+
+Python
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
+
 --->
