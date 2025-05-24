@@ -15,7 +15,7 @@
    - Chief of ITSI Library (Librarian)
 
 ## Work Experience:
-#### 1. [Unemployed](https://ridhsuki.my.id/) | Freelancer | Bogor `2025 - Now`
+#### 1. [Self-employed](https://ridhsuki.my.id/) | Freelancer | Bogor `2025 - Now`
    - Worked on various web projects using Laravel, creating custom solutions based on client needs.
    - Developed and maintained strong client relationships through effective communication and project management.
    - Utilized tools such as Notion for project tracking, and GitHub for version control and project sharing.
