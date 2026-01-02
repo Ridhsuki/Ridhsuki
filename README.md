@@ -1,4 +1,4 @@
-# Hi there, I'm Basuki Ridho Al Ghifari - [Ridhsuki](https://www.tiktok.com/@ritsuchi_dev) <img src="https://github.com/Ridhsuki/Ridhsuki/blob/main/img/Hi.gif" width="32px">
+# Hi there, I'm Basuki Ridho Al Ghifari - [Ridhsuki](https://www.tiktok.com/@ritsuchi_dev) <img src="https://raw.githubusercontent.com/Ridhsuki/Ridhsuki/refs/heads/main/img/Hi.gif" width="32px">
   
 ## About me:
 - 🔭 I’m currently working as Freelance Web Developer
