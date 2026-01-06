@@ -9,10 +9,10 @@
 - 📫 How to reach me: basukiridhoalghifary@gmail.com
 
 ## Education:
+#### 1. [Politeknik IDN](https://idn.ac.id/) | Bachelor of Software Engineering Student | Bogor `2024-2028`
+   - Learning web and mobile development.
 
- #### 1. [Politeknik IDN](https://idn.ac.id/) | Bachelor of Software Engineering Student | Bogor `2024-2028`
-   - Learning web and mobile development. <br />
- #### 2. [SMK IT Smart Informatika](https://smkitsi.sch.id/) | Computer and Network Engineering | Surakarta `2021-2024`
+#### 2. [SMK IT Smart Informatika](https://smkitsi.sch.id/) | Computer and Network Engineering | Surakarta `2021-2024`
    - Chief of ITSI Library (Librarian)
 
 ## Work Experience:
