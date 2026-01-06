@@ -11,7 +11,7 @@
 ## Education:
 
  #### 1. [Politeknik IDN](https://idn.ac.id/) | Bachelor of Software Engineering Student | Bogor `2024-2028`
-   - Learning web and mobile development.
+   - Learning web and mobile development. <br />
  #### 2. [SMK IT Smart Informatika](https://smkitsi.sch.id/) | Computer and Network Engineering | Surakarta `2021-2024`
    - Chief of ITSI Library (Librarian)
 
@@ -20,10 +20,12 @@
    - Worked on various web projects using Laravel, creating custom solutions based on client needs.
    - Developed and maintained strong client relationships through effective communication and project management.
    - Utilized tools such as Notion for project tracking, and GitHub for version control and project sharing.
+
 #### 2. [Mascom Computer Solo](https://www.instagram.com/mascomkomputer/?hl=de) | Student Intern | Surakarta `2023 (September - December)`
    - Gained hands-on experience in servicing software and hardware issues. 
    - Assisted in transporting service items and maintaining workspace cleanliness.
    - This internship provided practical skills and insights into computer maintenance and repair.
+
 ---
 
 ### Frameworks:
