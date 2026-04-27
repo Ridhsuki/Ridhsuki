@@ -1,4 +1,4 @@
-# Hi there, I'm Basuki Ridho Al Ghifari - [Ridhsuki](https://www.tiktok.com/@ridhsuki) <img src="https://raw.githubusercontent.com/Ridhsuki/Ridhsuki/refs/heads/main/img/Hi.gif" width="32px">
+# Hi there, I'm [Ridhsuki](https://www.tiktok.com/@ridhsuki) <img src="https://raw.githubusercontent.com/Ridhsuki/Ridhsuki/refs/heads/main/img/Hi.gif" width="32px">
   
 ## About me:
 - 🔭 I’m currently working as Freelance Web Developer
@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate as Web/Mobile Developer
 - 🤔 I’m Open to UI/UX and front-end design slicing challenges.
 - 💬 Ask me about anything
-- 📫 How to reach me: basukiridhoalghifary@gmail.com
+- 📫 How to reach me: basukiridho@idn.ac.id
 
 ## Education:
 #### 1. [Politeknik IDN](https://idn.ac.id/) | Bachelor of Software Engineering Student | Bogor `2024-2028`
