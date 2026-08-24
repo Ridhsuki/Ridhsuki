@@ -19,3 +19,5 @@
     <img src="https://www.gitskins.com/api/section/stats?username=Ridhsuki&theme=github-dark" alt="Ridhsuki stats section" />
   </picture>
 </p>
+
+https://gh.crafter.run/?u=ridhsuki
