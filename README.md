@@ -1,5 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="ridhsuki's GitHub profile" src="dark_mode.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhsuki&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+</p>
