@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhsuki&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
-</p>
+[![committers.top badge](https://user-badge.committers.top/indonesia/Ridhsuki.svg)](https://user-badge.committers.top/indonesia/Ridhsuki)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridhsuki&theme=github_dark&animation=draw)
