@@ -21,3 +21,5 @@
 </p>
 
 https://gh.crafter.run/?u=ridhsuki
+
+<img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=ridhsuki&theme=github-dark&radius=12"/>
